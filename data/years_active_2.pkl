@@ -1,0 +1,602 @@
+(dp0
+S'Melissa Benoist'
+p1
+S'2000present'
+p2
+sS'Greta Gerwig'
+p3
+S'2006present'
+p4
+sS'Brit Marling'
+p5
+S'2007present'
+p6
+sS'Rihanna'
+p7
+S'2005present'
+p8
+sS'Alexa Davalos'
+p9
+S'2002present'
+p10
+sS'Zoe Kazan'
+p11
+S'2006present'
+p12
+sS'Zachary Gordon'
+p13
+S'2006present'
+p14
+sS'Adrianne Palicki'
+p15
+S'2003present'
+p16
+sS'Carlos Mencia'
+p17
+S'1990present'
+p18
+sS'Alex Russell'
+p19
+S'2010present'
+p20
+sS'Eminem'
+p21
+S'1992present'
+p22
+sS'Colin Egglesfield'
+p23
+S'2000present'
+p24
+sS'Eddie Redmayne'
+p25
+S'1998present'
+p26
+sS'Jeremy Sumpter'
+p27
+S'2001present'
+p28
+sS'Sarah Polley'
+p29
+S'1985present'
+p30
+sS'Mary-Kate Olsen'
+p31
+S'1987present'
+p32
+sS'Peter Berg'
+p33
+S'1988present'
+p34
+sS'Kaley Cuoco'
+p35
+S'1992present'
+p36
+sS'Taylor Schilling'
+p37
+S'2007present'
+p38
+sS'Werner Herzog'
+p39
+S'1962present'
+p40
+sS'Minka Kelly'
+p41
+S'2003present'
+p42
+sS'Zach Braff'
+p43
+S'1993present'
+p44
+sS'Kate Upton'
+p45
+S'2009present'
+p46
+sS'Matthew Perry'
+p47
+S'1979present'
+p48
+sS'Brandon Routh'
+p49
+S'1999present'
+p50
+sS'Imogen Poots'
+p51
+S'2004present'
+p52
+sS'Jim Sturgess'
+p53
+S'1996present'
+p54
+sS'John Cena'
+p55
+S'None'
+p56
+sS'Chadwick Boseman'
+p57
+S'2003present'
+p58
+sS'Adam DeVine'
+p59
+S'1995present'
+p60
+sS'Cecile de France'
+p61
+S'1997present'
+p62
+sS'Vincent Gallo'
+p63
+S'1981present'
+p64
+sS'Kevin Smith'
+p65
+S'1993present'
+p66
+sS'Mark Duplass'
+p67
+S'1996present'
+p68
+sS'Sally Hawkins'
+p69
+S'1998present'
+p70
+sS'Dianna Agron'
+p71
+S'2006present'
+p72
+sS'50 Cent'
+p73
+S'1998present'
+p74
+sS'Chris Messina'
+p75
+S'1995present'
+p76
+sS"Mo'Nique"
+p77
+S'1999present'
+p78
+sS'Cody Horn'
+p79
+S'2010present'
+p80
+sS'Thomas Jane'
+p81
+S'1987present'
+p82
+sS'Amanda Crew'
+p83
+S'2005present'
+p84
+sS'Julie Delpy'
+p85
+S'1978present'
+p86
+sS'Lake Bell'
+p87
+S'2001present'
+p88
+sS'Thomas Dekker'
+p89
+S'1993  present'
+p90
+sS'Will Forte'
+p91
+S'1997present'
+p92
+sS'Alex Pettyfer'
+p93
+S'2005present'
+p94
+sS'Frankie Muniz'
+p95
+S'None'
+p96
+sS'Dane DeHaan'
+p97
+S'2008present'
+p98
+sS'Jenna Dewan-Tatum'
+p99
+S'2002present'
+p100
+sS'Jessica Brown Findlay'
+p101
+S'2009present'
+p102
+sS'Josh Zuckerman'
+p103
+S'1999present'
+p104
+sS'Christopher Guest'
+p105
+S'1971present'
+p106
+sS'Chace Crawford'
+p107
+S'2006present'
+p108
+sS"Jason O'Mara"
+p109
+S'1995present'
+p110
+sS'Tupac Shakur'
+p111
+S'19881996'
+p112
+sS'Jeffrey Dean Morgan'
+p113
+S'1991present'
+p114
+sS'Gael Garcia Bernal'
+p115
+S'1989present'
+p116
+sS'Brenton Thwaites'
+p117
+S'2010present'
+p118
+sS'Theo James'
+p119
+S'2010present'
+p120
+sS'Bella Thorne'
+p121
+S'2003present'
+p122
+sS'Dan Stevens'
+p123
+S'2004present'
+p124
+sS'Goran Visnjic'
+p125
+S'1988present'
+p126
+sS'Corey Haim'
+p127
+S'19812010'
+p128
+sS'Emilie de Ravin'
+p129
+S'1999present'
+p130
+sS'Katee Sackhoff'
+p131
+S'1998present'
+p132
+sS'Sofia Coppola'
+p133
+S'1972present'
+p134
+sS'Jim Jarmusch'
+p135
+S'1979present'
+p136
+sS'Max Irons'
+p137
+S'2004present'
+p138
+sS'Aimee Teegarden'
+p139
+S'2003present'
+p140
+sS'Tye Sheridan'
+p141
+S'2011present'
+p142
+sS"Jack O'Connell"
+p143
+S'2005present'
+p144
+sS'Julianne Hough'
+p145
+S'2007present'
+p146
+sS'Erika Christensen'
+p147
+S'1997present'
+p148
+sS'Keenen Ivory Wayans'
+p149
+S'1979present'
+p150
+sS'AnnaSophia Robb'
+p151
+S'2004present'
+p152
+sS'Lance Reddick'
+p153
+S'1996present'
+p154
+sS'Sophie Okonedo'
+p155
+S'1991  present'
+p156
+sS'Kodi Smit-McPhee'
+p157
+S'2005present'
+p158
+sS'M. Night Shyamalan'
+p159
+S'1992present'
+p160
+sS'Rob Reiner'
+p161
+S'1959present'
+p162
+sS'Penn Badgley'
+p163
+S'1997present'
+p164
+sS'Chris Farley'
+p165
+S'19901997'
+p166
+sS'Melanie Laurent'
+p167
+S'1998present'
+p168
+sS'Wilmer Valderrama'
+p169
+S'1998present'
+p170
+sS'Romola Garai'
+p171
+S'2000present'
+p172
+sS'Elisabeth Moss'
+p173
+S'1990present'
+p174
+sS'Michael B. Jordan'
+p175
+S'1999present'
+p176
+sS'Thomas Horn'
+p177
+S'2011-present'
+p178
+sS'Ashley Bell'
+p179
+S'2002 present'
+p180
+sS'Emily Browning'
+p181
+S'1998present'
+p182
+sS'Amber Heard'
+p183
+S'2004present'
+p184
+sS'Quentin Tarantino'
+p185
+S'1987present'
+p186
+sS'Rosemarie DeWitt'
+p187
+S'2001present'
+p188
+sS'Katie Cassidy'
+p189
+S'2003present'
+p190
+sS'Ryan Guzman'
+p191
+S'2012present'
+p192
+sS'Tom Sturridge'
+p193
+S'1996present'
+p194
+sS'Philip Kaufman'
+p195
+S'1964present'
+p196
+sS'Quvenzhane Wallis'
+p197
+S'2012present'
+p198
+sS'Vanessa Hudgens'
+p199
+S'2002present'
+p200
+sS'Amy Ryan'
+p201
+S'1987present'
+p202
+sS'Rhys Wakefield'
+p203
+S'2000present'
+p204
+sS'Martin Donovan'
+p205
+S'1982present'
+p206
+sS'Matthew Goode'
+p207
+S'2001present'
+p208
+sS'Harold Ramis'
+p209
+S'19692009'
+p210
+sS'Shiloh Fernandez'
+p211
+S'2005present'
+p212
+sS'John Cameron Mitchell'
+p213
+S'1983present'
+p214
+sS'Jenna Fischer'
+p215
+S'1998present'
+p216
+sS'Claire Foy'
+p217
+S'2008present'
+p218
+sS'Rooney Mara'
+p219
+S'2005present'
+p220
+sS'Garry Marshall'
+p221
+S'1961present'
+p222
+sS'Roberto Benigni'
+p223
+S'1970present'
+p224
+sS'Thomas Mann'
+p225
+S'2009present'
+p226
+sS'Taron Egerton'
+p227
+S'2012present'
+p228
+sS'Callan McAuliffe'
+p229
+S'2007present'
+p230
+sS'Boris Kodjoe'
+p231
+S'1998present'
+p232
+sS'Ellen Wong'
+p233
+S'2005present'
+p234
+sS'Leighton Meester'
+p235
+S'1999present'
+p236
+sS'Chloe Sevigny'
+p237
+S'1995present'
+p238
+sS'Analeigh Tipton'
+p239
+S'2008present'
+p240
+sS'Saoirse Ronan'
+p241
+S'2003present'
+p242
+sS'Gabourey Sidibe'
+p243
+S'2009present'
+p244
+sS'Rachel Bilson'
+p245
+S'2003present'
+p246
+sS'Gillian Anderson'
+p247
+S'1986present'
+p248
+sS'John Wayne'
+p249
+S'19261976'
+p250
+sS'Justin Bieber'
+p251
+S'2008present'
+p252
+sS'Felicity Jones'
+p253
+S'1996present'
+p254
+sS'Armie Hammer'
+p255
+S'2005present'
+p256
+sS'Abbie Cornish'
+p257
+S'1997present'
+p258
+sS'Michael Nyqvist'
+p259
+S'1987present'
+p260
+sS'Sophie Cookson'
+p261
+S'2013present'
+p262
+sS'Ben Barnes'
+p263
+S'2006present'
+p264
+sS'Anna Friel'
+p265
+S'1986present'
+p266
+sS'Mireille Enos'
+p267
+S'1994present'
+p268
+sS'Sharon Leal'
+p269
+S'1996present'
+p270
+sS'Juno Temple'
+p271
+S'1997present'
+p272
+sS'Matt LeBlanc'
+p273
+S'1985present'
+p274
+sS'Ezra Miller'
+p275
+S'2008present'
+p276
+sS'Portia Doubleday'
+p277
+S'1998present'
+p278
+sS'Max Thieriot'
+p279
+S'2004present'
+p280
+sS'Suraj Sharma'
+p281
+S'2010present'
+p282
+sS'Peter Krause'
+p283
+S'1987present'
+p284
+sS'Brooklyn Decker'
+p285
+S'2003present'
+p286
+sS'Alex Kendrick'
+p287
+S'2003-present'
+p288
+sS'Nikki Blonsky'
+p289
+S'2007present'
+p290
+sS'Max Records'
+p291
+S'2006present'
+p292
+sS'Selena Gomez'
+p293
+S'2002present'
+p294
+sS'Jessica Lucas'
+p295
+S'2000present'
+p296
+sS'Noah Ringer'
+p297
+S'2010present'
+p298
+sS'Carey Mulligan'
+p299
+S'2004present'
+p300
+s.

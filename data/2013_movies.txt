@@ -1,0 +1,1758 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class=" is-copy-enabled">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=1020">
+    <meta content="origin-when-crossorigin" name="referrer" />
+    
+    <title>ds4/2013_movies.csv at master · thisismetis/ds4</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="thisismetis/ds4" name="twitter:title" /><meta content="ds4 - Metis data science cohort 4 resources and student work" name="twitter:description" /><meta content="https://avatars3.githubusercontent.com/u/6126166?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars3.githubusercontent.com/u/6126166?v=3&amp;s=400" property="og:image" /><meta content="thisismetis/ds4" property="og:title" /><meta content="https://github.com/thisismetis/ds4" property="og:url" /><meta content="ds4 - Metis data science cohort 4 resources and student work" property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTEyNzU0ODU6OTkyZDk3ZjBjYTE0YTUzOWIzODNlY2IxYWJjNzM0MjA6MDVkOGVmYTdhMDQwN2IzZTAzNWFjNDY1ZTM4YzYzMGRmMmMwNjhhMDlmYWI3Mzc0MjQzNDU1YjM0NmMzNzY0OA==--89980d24ff59fc5797fc2698edfbc87f4d7e95d1">
+    <meta name="pjax-timeout" content="1000">
+    <link rel="sudo-modal" href="/sessions/sudo_modal">
+    <meta name="features-enabled" content="41,110">
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+        <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="41D13C92:6BEE:2F21A47:559AEC23" name="octolytics-dimension-request_id" /><meta content="11275485" name="octolytics-actor-id" /><meta content="cgerson" name="octolytics-actor-login" /><meta content="2e5148ad6be68b83677ff712a4590a1826c2ba7658e70ef25a7581d5c3564161" name="octolytics-actor-hash" />
+    <meta content="/private/private/blob/show" name="analytics-location" />
+    <meta content="Rails, view, blob#show" name="analytics-event" />
+    <meta class="js-ga-set" name="dimension1" content="Logged In">
+    <meta name="is-dotcom" content="true">
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="cgerson">
+
+      <link rel="icon" sizes="any" mask href="https://assets-cdn.github.com/pinned-octocat.svg">
+      <meta name="theme-color" content="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="LrVSa0B8KPdvFNE8RG5jlROAsUYrtz2S+aDEdDIQ+txbor+Wlk91z/9/5n1VbwAUW1tDOSvxD12GSCXtkVJiBA==" name="csrf-token" />
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-ac321799838c7ae0eb25065c5fc26d36a78c120df9ce84022449f7c633fa7a16.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-d138888ac7a83e7d5336ee1aecc8de418743389af38a64c419c43218fa07eeff.css" media="all" rel="stylesheet" />
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="604bcf7fc2b7a0128865a6c199f0ca7c">
+
+      
+  <meta name="description" content="ds4 - Metis data science cohort 4 resources and student work">
+  <meta name="go-import" content="github.com/thisismetis/ds4 git https://github.com/thisismetis/ds4.git">
+
+  <meta content="6126166" name="octolytics-dimension-user_id" /><meta content="thisismetis" name="octolytics-dimension-user_login" /><meta content="37666166" name="octolytics-dimension-repository_id" /><meta content="thisismetis/ds4" name="octolytics-dimension-repository_nwo" /><meta content="false" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="37666166" name="octolytics-dimension-repository_network_root_id" /><meta content="thisismetis/ds4" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/thisismetis/ds4/commits/master.atom?token=AKwM3Rq9M-DBgqNUxjStygJS8wBnziIMks6zqCy3wA%3D%3D" rel="alternate" title="Recent Commits to ds4:master" type="application/atom+xml">
+
+  </head>
+
+
+  <body class="logged_in  env-production macintosh vis-private page-blob">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+
+
+
+        <div class="header header-logged-in true" role="banner">
+  <div class="container clearfix">
+
+    <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
+  <span class="mega-octicon octicon-mark-github"></span>
+</a>
+
+
+      <div class="site-search repo-scope js-site-search" role="search">
+          <form accept-charset="UTF-8" action="/thisismetis/ds4/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/thisismetis/ds4/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <label class="js-chromeless-input-container form-control">
+    <div class="scope-badge">This repository</div>
+    <input type="text"
+      class="js-site-search-focus js-site-search-field is-clearable chromeless-input"
+      data-hotkey="s"
+      name="q"
+      placeholder="Search"
+      data-global-scope-placeholder="Search GitHub"
+      data-repo-scope-placeholder="Search"
+      tabindex="1"
+      autocapitalize="off">
+  </label>
+</form>
+      </div>
+
+      <ul class="header-nav left" role="navigation">
+        <li class="header-nav-item">
+          <a href="/pulls" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:pulls context:user" data-hotkey="g p" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls">
+            Pull requests
+</a>        </li>
+        <li class="header-nav-item">
+          <a href="/issues" class="js-selected-navigation-item header-nav-link" data-ga-click="Header, click, Nav menu - item:issues context:user" data-hotkey="g i" data-selected-links="/issues /issues/assigned /issues/mentioned /issues">
+            Issues
+</a>        </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="https://gist.github.com" data-ga-click="Header, go to gist, text:gist">Gist</a>
+          </li>
+      </ul>
+
+    
+<ul class="header-nav user-nav right" id="user-links">
+  <li class="header-nav-item">
+      <span class="js-socket-channel js-updatable-content"
+        data-channel="notification-changed:cgerson"
+        data-url="/notifications/header">
+      <a href="/notifications" aria-label="You have no unread notifications" class="header-nav-link notification-indicator tooltipped tooltipped-s" data-ga-click="Header, go to notifications, icon:read" data-hotkey="g n">
+          <span class="mail-status all-read"></span>
+          <span class="octicon octicon-inbox"></span>
+</a>  </span>
+
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
+       aria-label="Create new..."
+       data-ga-click="Header, create new, icon:add">
+      <span class="octicon octicon-plus left"></span>
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <ul class="dropdown-menu dropdown-menu-sw">
+        
+<a class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
+  New repository
+</a>
+
+
+  <a class="dropdown-item" href="/organizations/new" data-ga-click="Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="thisismetis/ds4">This repository</span>
+  </div>
+    <a class="dropdown-item" href="/thisismetis/ds4/issues/new" data-ga-click="Header, create new issue">
+      New issue
+    </a>
+
+      </ul>
+    </div>
+  </li>
+
+  <li class="header-nav-item dropdown js-menu-container">
+    <a class="header-nav-link name tooltipped tooltipped-s js-menu-target" href="/cgerson"
+       aria-label="View profile and more"
+       data-ga-click="Header, show menu, icon:avatar">
+      <img alt="@cgerson" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/11275485?v=3&amp;s=40" width="20" />
+      <span class="dropdown-caret"></span>
+    </a>
+
+    <div class="dropdown-menu-content js-menu-content">
+      <div class="dropdown-menu dropdown-menu-sw">
+        <div class="dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class="css-truncate-target">cgerson</strong>
+        </div>
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/cgerson" data-ga-click="Header, go to profile, text:your profile">
+          Your profile
+        </a>
+        <a class="dropdown-item" href="/stars" data-ga-click="Header, go to starred repos, text:your stars">
+          Your stars
+        </a>
+        <a class="dropdown-item" href="/explore" data-ga-click="Header, go to explore, text:explore">
+          Explore
+        </a>
+        <a class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">
+          Help
+        </a>
+        <div class="dropdown-divider"></div>
+
+        <a class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">
+          Settings
+        </a>
+
+        <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bMsB9MSibYlaTWaEEp5Rjm46UJ3C8oBYgk3eNJ4eZ6gI+MInEfYr3yskPxY0r7f8bVjFsMsV3JcwGoEq2OOCKw==" /></div>
+          <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </li>
+</ul>
+
+
+    
+  </div>
+</div>
+
+        
+
+        
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    <div id="js-flash-container">
+      
+    </div>
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+
+        
+<ul class="pagehead-actions">
+
+  <li>
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KnjomkNgVZlr6UXVUeSkC1Pf8gBaUzJXyt5vC64UcYfYb3d2CTlTwIubNd+FykFHEscNtJO5AImIr7mCVRJUZQ==" /></div>    <input id="repository_id" name="repository_id" type="hidden" value="37666166" />
+
+      <div class="select-menu js-menu-container js-select-menu">
+        <a href="/thisismetis/ds4/subscription"
+          class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
+          data-ga-click="Repository, click Watch settings, action:blob#show">
+          <span class="js-select-button">
+            <span class="octicon octicon-eye"></span>
+            Watch
+          </span>
+        </a>
+        <a class="social-count js-social-count" href="/thisismetis/ds4/watchers">
+          11
+        </a>
+
+        <div class="select-menu-modal-holder">
+          <div class="select-menu-modal subscription-menu-modal js-menu-content" aria-hidden="true">
+            <div class="select-menu-header">
+              <span class="select-menu-title">Notifications</span>
+              <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+            </div>
+
+            <div class="select-menu-list js-navigation-container" role="menu">
+
+              <div class="select-menu-item js-navigation-item selected" role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input checked="checked" id="do_included" name="do" type="radio" value="included" />
+                  <span class="select-menu-item-heading">Not watching</span>
+                  <span class="description">Be notified when participating or @mentioned.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-eye"></span>
+                    Watch
+                  </span>
+                </div>
+              </div>
+
+              <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input id="do_subscribed" name="do" type="radio" value="subscribed" />
+                  <span class="select-menu-item-heading">Watching</span>
+                  <span class="description">Be notified of all conversations.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-eye"></span>
+                    Unwatch
+                  </span>
+                </div>
+              </div>
+
+              <div class="select-menu-item js-navigation-item " role="menuitem" tabindex="0">
+                <span class="select-menu-item-icon octicon octicon-check"></span>
+                <div class="select-menu-item-text">
+                  <input id="do_ignore" name="do" type="radio" value="ignore" />
+                  <span class="select-menu-item-heading">Ignoring</span>
+                  <span class="description">Never be notified.</span>
+                  <span class="js-select-button-text hidden-select-button-text">
+                    <span class="octicon octicon-mute"></span>
+                    Stop ignoring
+                  </span>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+      </div>
+</form>
+  </li>
+
+  <li>
+    
+  <div class="js-toggler-container js-social-container starring-container ">
+
+    <form accept-charset="UTF-8" action="/thisismetis/ds4/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="n7X3UWKVzQInJNvhG4dLuJuja0aDthOF79TvbHKL3wFVC0nXafxXusq3xytMg4+IoC+4Qi62aEwnYvki7pkJSw==" /></div>
+      <button
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Unstar this repository" title="Unstar thisismetis/ds4"
+        data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
+        <span class="octicon octicon-star"></span>
+        Unstar
+      </button>
+        <a class="social-count js-social-count" href="/thisismetis/ds4/stargazers">
+          3
+        </a>
+</form>
+    <form accept-charset="UTF-8" action="/thisismetis/ds4/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+6yPw029aX9gXeNVLP1oHV/0gZCkIbROUjFMfgi8cvAdVQTTHxWRk9Ye9cVoZsSD0xW8ay51G8UfPJCIEl5PsQ==" /></div>
+      <button
+        class="btn btn-sm btn-with-count js-toggler-target"
+        aria-label="Star this repository" title="Star thisismetis/ds4"
+        data-ga-click="Repository, click star button, action:blob#show; text:Star">
+        <span class="octicon octicon-star"></span>
+        Star
+      </button>
+        <a class="social-count js-social-count" href="/thisismetis/ds4/stargazers">
+          3
+        </a>
+</form>  </div>
+
+  </li>
+
+        <li>
+          <a href="#fork-destination-box" class="btn btn-sm btn-with-count"
+              title="Fork your own copy of thisismetis/ds4 to your account"
+              aria-label="Fork your own copy of thisismetis/ds4 to your account"
+              rel="facebox"
+              data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
+            <span class="octicon octicon-repo-forked"></span>
+            Fork
+          </a>
+          <a href="/thisismetis/ds4/network" class="social-count">25</a>
+
+          <div id="fork-destination-box" style="display: none;">
+            <h2 class="facebox-header">Where should we fork this repository?</h2>
+            <include-fragment src=""
+                class="js-fork-select-fragment fork-select-fragment"
+                data-url="/thisismetis/ds4/fork?fragment=1">
+              <img alt="Loading" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
+            </include-fragment>
+          </div>
+        </li>
+
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title private">
+          <span class="mega-octicon octicon-lock"></span>
+          <span class="author"><a href="/thisismetis" class="url fn" itemprop="url" rel="author"><span itemprop="title">thisismetis</span></a></span><!--
+       --><span class="path-divider">/</span><!--
+       --><strong><a href="/thisismetis/ds4" data-pjax="#js-repo-pjax-container">ds4</a></strong>
+            <span class="repo-private-label">private</span>
+
+          <span class="page-context-loader">
+            <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+      <div class="repository-with-sidebar repo-container new-discussion-timeline  ">
+        <div class="repository-sidebar clearfix">
+            
+<nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container"
+     data-issue-count-url="/thisismetis/ds4/issues/counts">
+  <ul class="sunken-menu-group">
+    <li class="tooltipped tooltipped-w" aria-label="Code">
+      <a href="/thisismetis/ds4" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /thisismetis/ds4">
+        <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Issues">
+        <a href="/thisismetis/ds4/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /thisismetis/ds4/issues">
+          <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+          <span class="js-issue-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Pull requests">
+      <a href="/thisismetis/ds4/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /thisismetis/ds4/pulls">
+          <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
+          <span class="js-pull-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+  </ul>
+  <div class="sunken-menu-separator"></div>
+  <ul class="sunken-menu-group">
+
+    <li class="tooltipped tooltipped-w" aria-label="Pulse">
+      <a href="/thisismetis/ds4/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /thisismetis/ds4/pulse">
+        <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Graphs">
+      <a href="/thisismetis/ds4/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /thisismetis/ds4/graphs">
+        <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+  </ul>
+
+
+</nav>
+
+              <div class="only-with-full-nav">
+                  
+<div class="js-clone-url clone-url open"
+  data-protocol-type="http">
+  <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/thisismetis/ds4.git" readonly="readonly">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="ssh">
+  <h3><span class="text-emphasized">SSH</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="git@github.com:thisismetis/ds4.git" readonly="readonly">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="subversion">
+  <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/thisismetis/ds4" readonly="readonly">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+
+<div class="clone-options">You can clone with
+  <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="40yByzOBsDi5HM0MT8lLg7IMMFANaIEgznJh3wcduYK/uo8AUhyARjpAX8IoMBtrSL5rPhdFmv7tjfnMWOMprw==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mhIF8dNEP/0G87uXITwqFWUE2pXgn+Cjzyya3vDHd5TwT8u6/1ZK9ulV7b4KL+5cjm1mIypiCCIrtCk37JvnFg==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mU+R+7Y62rZnjYL63G6gexyFfb4R9hdyZ3P+va82jyk0SBRjOfEqs5+WB5+ilgB4OaK5PETk4jGuakKmzBCTSg==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+    <span class="octicon octicon-question"></span>
+  </a>
+</div>
+
+  <a href="https://mac.github.com" class="btn btn-sm sidebar-button" title="Save thisismetis/ds4 to your computer and use it in GitHub Desktop." aria-label="Save thisismetis/ds4 to your computer and use it in GitHub Desktop.">
+    <span class="octicon octicon-device-desktop"></span>
+    Clone in Desktop
+  </a>
+
+
+
+                <a href="/thisismetis/ds4/archive/master.zip"
+                   class="btn btn-sm sidebar-button"
+                   aria-label="Download the contents of thisismetis/ds4 as a zip file"
+                   title="Download the contents of thisismetis/ds4 as a zip file"
+                   rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download ZIP
+                </a>
+              </div>
+        </div><!-- /.repository-sidebar -->
+
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+
+          
+
+<a href="/thisismetis/ds4/blob/c452c865c565f0cf6c0b9a149a25a0eedf7e64a9/challenges/02-pandas/2013_movies.csv" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+<!-- blob contrib key: blob_contributors:v21:b04ef72f063c0206ad06fa1f9aa6bc37 -->
+
+<div class="file-navigation js-zeroclipboard-container">
+  
+<div class="select-menu js-menu-container js-select-menu left">
+  <span class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    data-ref="master"
+    title="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <span class="octicon octicon-git-branch"></span>
+    <i>branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/thisismetis/ds4/blob/master/challenges/02-pandas/2013_movies.csv"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="master">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="btn-group right">
+    <a href="/thisismetis/ds4/find/master"
+          class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-s"
+          data-pjax
+          data-hotkey="t"
+          aria-label="Quickly jump between files">
+      <span class="octicon octicon-list-unordered"></span>
+    </a>
+    <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+  </div>
+
+  <div class="breadcrumb js-zeroclipboard-target">
+    <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/thisismetis/ds4" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">ds4</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/thisismetis/ds4/tree/master/challenges" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">challenges</span></a></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/thisismetis/ds4/tree/master/challenges/02-pandas" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">02-pandas</span></a></span><span class="separator">/</span><strong class="final-path">2013_movies.csv</strong>
+  </div>
+</div>
+
+
+  <div class="commit file-history-tease">
+    <div class="file-history-tease-header">
+        <img alt="@ajschumacher" class="avatar" height="24" src="https://avatars1.githubusercontent.com/u/1071322?v=3&amp;s=48" width="24" />
+        <span class="author"><a href="/ajschumacher" rel="contributor">ajschumacher</a></span>
+        <time datetime="2015-07-06T11:30:57Z" is="relative-time">Jul 6, 2015</time>
+        <div class="commit-title">
+            <a href="/thisismetis/ds4/commit/6d3e24da0156fcc10418636ad1be44366b671b27" class="message" data-pjax="true" title="pandas challenges in place">pandas challenges in place</a>
+        </div>
+    </div>
+
+    <div class="participation">
+      <p class="quickstat">
+        <a href="#blob_contributors_box" rel="facebox">
+          <strong>1</strong>
+           contributor
+        </a>
+      </p>
+      
+    </div>
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list">
+          <li class="facebox-user-list-item">
+            <img alt="@ajschumacher" height="24" src="https://avatars1.githubusercontent.com/u/1071322?v=3&amp;s=48" width="24" />
+            <a href="/ajschumacher">ajschumacher</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="file">
+  <div class="file-header">
+    <div class="file-actions">
+
+      <div class="btn-group">
+        <a href="/thisismetis/ds4/raw/master/challenges/02-pandas/2013_movies.csv" class="btn btn-sm " id="raw-url">Raw</a>
+          <a href="/thisismetis/ds4/blame/master/challenges/02-pandas/2013_movies.csv" class="btn btn-sm js-update-url-with-hash">Blame</a>
+        <a href="/thisismetis/ds4/commits/master/challenges/02-pandas/2013_movies.csv" class="btn btn-sm " rel="nofollow">History</a>
+      </div>
+
+        <a class="octicon-btn tooltipped tooltipped-nw"
+           href="https://mac.github.com"
+           aria-label="Open this file in GitHub for Mac"
+           data-ga-click="Repository, open with desktop, type:mac">
+            <span class="octicon octicon-device-desktop"></span>
+        </a>
+
+            <form accept-charset="UTF-8" action="/thisismetis/ds4/edit/master/challenges/02-pandas/2013_movies.csv" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Q9XtNh2MDc6HYp5FSXSFPjgLlPI9IkDXFvlbSMpwu5AvKO7pKDCUQcfyAJ4nr+Zw9kPJmABptZNrN4iaVm9+MQ==" /></div>
+              <button class="octicon-btn tooltipped tooltipped-n" type="submit" aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
+                <span class="octicon octicon-pencil"></span>
+              </button>
+</form>
+          <form accept-charset="UTF-8" action="/thisismetis/ds4/delete/master/challenges/02-pandas/2013_movies.csv" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8yQuYmgnUUdW0UjZL7QbwKhHrUGXauk35hYd5V6siWllvTVEm4napILlCzhSvD+XvoHaPYO3STDsG3owRfbtIQ==" /></div>
+            <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-n" type="submit" aria-label="Delete this file in your fork of this project" data-disable-with>
+              <span class="octicon octicon-trashcan"></span>
+            </button>
+</form>    </div>
+
+    <div class="file-info">
+        102 lines (101 sloc)
+        <span class="file-info-divider"></span>
+      7.774 kB
+    </div>
+  </div>
+  
+
+  <div class="blob-wrapper data type-text">
+      <div class="blob-interaction-bar">
+  <span class="octicon octicon-search"></span>
+  <input type="text" name="filter" class="js-csv-filter-field blob-filter" placeholder="Search this file..." autocapitalize="off">
+</div>
+
+<div class="markdown-body">
+  <table class="js-csv-data csv-data js-file-line-container">
+    <thead>
+      <tr id="LC1" class="js-file-line">
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <th>Title</th>
+        <th>Budget</th>
+        <th>DomesticTotalGross</th>
+        <th>Director</th>
+        <th>Rating</th>
+        <th>Runtime</th>
+        <th>ReleaseDate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr id="LC2" class="js-file-line">
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td>The Hunger Games: Catching Fire</td>
+        <td>130000000</td>
+        <td>424668047</td>
+        <td>Francis Lawrence</td>
+        <td>PG-13</td>
+        <td>146</td>
+        <td>2013-11-22 00:00:00</td>
+      </tr>
+      <tr id="LC3" class="js-file-line">
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td>Iron Man 3</td>
+        <td>200000000</td>
+        <td>409013994</td>
+        <td>Shane Black</td>
+        <td>PG-13</td>
+        <td>129</td>
+        <td>2013-05-03 00:00:00</td>
+      </tr>
+      <tr id="LC4" class="js-file-line">
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td>Frozen</td>
+        <td>150000000</td>
+        <td>400738009</td>
+        <td>Chris BuckJennifer Lee</td>
+        <td>PG</td>
+        <td>108</td>
+        <td>2013-11-22 00:00:00</td>
+      </tr>
+      <tr id="LC5" class="js-file-line">
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td>Despicable Me 2</td>
+        <td>76000000</td>
+        <td>368061265</td>
+        <td>Pierre CoffinChris Renaud</td>
+        <td>PG</td>
+        <td>98</td>
+        <td>2013-07-03 00:00:00</td>
+      </tr>
+      <tr id="LC6" class="js-file-line">
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td>Man of Steel</td>
+        <td>225000000</td>
+        <td>291045518</td>
+        <td>Zack Snyder</td>
+        <td>PG-13</td>
+        <td>143</td>
+        <td>2013-06-14 00:00:00</td>
+      </tr>
+      <tr id="LC7" class="js-file-line">
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td>Gravity</td>
+        <td>100000000</td>
+        <td>274092705</td>
+        <td>Alfonso Cuaron</td>
+        <td>PG-13</td>
+        <td>91</td>
+        <td>2013-10-04 00:00:00</td>
+      </tr>
+      <tr id="LC8" class="js-file-line">
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td>Monsters University</td>
+        <td></td>
+        <td>268492764</td>
+        <td>Dan Scanlon</td>
+        <td>G</td>
+        <td>107</td>
+        <td>2013-06-21 00:00:00</td>
+      </tr>
+      <tr id="LC9" class="js-file-line">
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td>The Hobbit: The Desolation of Smaug</td>
+        <td></td>
+        <td>258366855</td>
+        <td>Peter Jackson</td>
+        <td>PG-13</td>
+        <td>161</td>
+        <td>2013-12-13 00:00:00</td>
+      </tr>
+      <tr id="LC10" class="js-file-line">
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td>Fast &amp; Furious 6</td>
+        <td>160000000</td>
+        <td>238679850</td>
+        <td>Justin Lin</td>
+        <td>PG-13</td>
+        <td>130</td>
+        <td>2013-05-24 00:00:00</td>
+      </tr>
+      <tr id="LC11" class="js-file-line">
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td>Oz The Great and Powerful</td>
+        <td>215000000</td>
+        <td>234911825</td>
+        <td>Sam Raimi</td>
+        <td>PG</td>
+        <td>127</td>
+        <td>2013-03-08 00:00:00</td>
+      </tr>
+      <tr id="LC12" class="js-file-line">
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td>Star Trek Into Darkness</td>
+        <td>190000000</td>
+        <td>228778661</td>
+        <td>J.J. Abrams</td>
+        <td>PG-13</td>
+        <td>123</td>
+        <td>2013-05-16 00:00:00</td>
+      </tr>
+      <tr id="LC13" class="js-file-line">
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td>Thor: The Dark World</td>
+        <td>170000000</td>
+        <td>206362140</td>
+        <td>Alan Taylor</td>
+        <td>PG-13</td>
+        <td>120</td>
+        <td>2013-11-08 00:00:00</td>
+      </tr>
+      <tr id="LC14" class="js-file-line">
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td>World War Z</td>
+        <td>190000000</td>
+        <td>202359711</td>
+        <td>Marc Forster</td>
+        <td>PG-13</td>
+        <td>116</td>
+        <td>2013-06-21 00:00:00</td>
+      </tr>
+      <tr id="LC15" class="js-file-line">
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td>The Croods</td>
+        <td>135000000</td>
+        <td>187168425</td>
+        <td>Kirk De MiccoChris Sanders</td>
+        <td>PG</td>
+        <td>98</td>
+        <td>2013-03-22 00:00:00</td>
+      </tr>
+      <tr id="LC16" class="js-file-line">
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td>The Heat</td>
+        <td>43000000</td>
+        <td>159582188</td>
+        <td>Paul Feig</td>
+        <td>R</td>
+        <td>117</td>
+        <td>2013-06-28 00:00:00</td>
+      </tr>
+      <tr id="LC17" class="js-file-line">
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td>We&#39;re the Millers</td>
+        <td>37000000</td>
+        <td>150394119</td>
+        <td>Rawson Marshall Thurber</td>
+        <td>R</td>
+        <td>110</td>
+        <td>2013-08-07 00:00:00</td>
+      </tr>
+      <tr id="LC18" class="js-file-line">
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td>American Hustle</td>
+        <td>40000000</td>
+        <td>150117807</td>
+        <td>David O. Russell</td>
+        <td>R</td>
+        <td>138</td>
+        <td>2013-12-13 00:00:00</td>
+      </tr>
+      <tr id="LC19" class="js-file-line">
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td>The Great Gatsby</td>
+        <td>105000000</td>
+        <td>144840419</td>
+        <td>Baz Luhrmann</td>
+        <td>PG-13</td>
+        <td>143</td>
+        <td>2013-05-10 00:00:00</td>
+      </tr>
+      <tr id="LC20" class="js-file-line">
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td>The Conjuring</td>
+        <td>20000000</td>
+        <td>137400141</td>
+        <td>James Wan</td>
+        <td>R</td>
+        <td>112</td>
+        <td>2013-07-19 00:00:00</td>
+      </tr>
+      <tr id="LC21" class="js-file-line">
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td>Identity Thief</td>
+        <td>35000000</td>
+        <td>134506920</td>
+        <td>Seth Gordon</td>
+        <td>R</td>
+        <td>111</td>
+        <td>2013-02-08 00:00:00</td>
+      </tr>
+      <tr id="LC22" class="js-file-line">
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td>Grown Ups 2</td>
+        <td>80000000</td>
+        <td>133668525</td>
+        <td>Dennis Dugan</td>
+        <td>PG-13</td>
+        <td>101</td>
+        <td>2013-07-12 00:00:00</td>
+      </tr>
+      <tr id="LC23" class="js-file-line">
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td>The Wolverine</td>
+        <td>120000000</td>
+        <td>132556852</td>
+        <td>James Mangold</td>
+        <td>PG-13</td>
+        <td>126</td>
+        <td>2013-07-26 00:00:00</td>
+      </tr>
+      <tr id="LC24" class="js-file-line">
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td>Anchorman 2: The Legend Continues</td>
+        <td>50000000</td>
+        <td>125168368</td>
+        <td>Adam McKay</td>
+        <td>PG-13</td>
+        <td>119</td>
+        <td>2013-12-18 00:00:00</td>
+      </tr>
+      <tr id="LC25" class="js-file-line">
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td>Lone Survivor</td>
+        <td>40000000</td>
+        <td>125095601</td>
+        <td>Peter Berg</td>
+        <td>R</td>
+        <td>121</td>
+        <td>2013-12-25 00:00:00</td>
+      </tr>
+      <tr id="LC26" class="js-file-line">
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td>G.I. Joe: Retaliation</td>
+        <td>130000000</td>
+        <td>122523060</td>
+        <td>Jon Chu</td>
+        <td>PG-13</td>
+        <td>99</td>
+        <td>2013-03-28 00:00:00</td>
+      </tr>
+      <tr id="LC27" class="js-file-line">
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td>Cloudy with a Chance of Meatballs 2</td>
+        <td>78000000</td>
+        <td>119793567</td>
+        <td></td>
+        <td>PG</td>
+        <td>95</td>
+        <td>2013-09-27 00:00:00</td>
+      </tr>
+      <tr id="LC28" class="js-file-line">
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td>Now You See Me</td>
+        <td>75000000</td>
+        <td>117723989</td>
+        <td>Louis Leterrier</td>
+        <td>PG-13</td>
+        <td>116</td>
+        <td>2013-05-31 00:00:00</td>
+      </tr>
+      <tr id="LC29" class="js-file-line">
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td>The Wolf of Wall Street</td>
+        <td>100000000</td>
+        <td>116900694</td>
+        <td>Martin Scorsese</td>
+        <td>R</td>
+        <td>180</td>
+        <td>2013-12-25 00:00:00</td>
+      </tr>
+      <tr id="LC30" class="js-file-line">
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td>Lee Daniels&#39; The Butler</td>
+        <td>30000000</td>
+        <td>116632095</td>
+        <td>Lee Daniels</td>
+        <td>PG-13</td>
+        <td>132</td>
+        <td>2013-08-16 00:00:00</td>
+      </tr>
+      <tr id="LC31" class="js-file-line">
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td>The Hangover Part III</td>
+        <td>103000000</td>
+        <td>112200072</td>
+        <td>Todd Phillips</td>
+        <td>R</td>
+        <td>100</td>
+        <td>2013-05-23 00:00:00</td>
+      </tr>
+      <tr id="LC32" class="js-file-line">
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td>Epic</td>
+        <td>100000000</td>
+        <td>107518682</td>
+        <td>Chris Wedge</td>
+        <td>PG</td>
+        <td>102</td>
+        <td>2013-05-24 00:00:00</td>
+      </tr>
+      <tr id="LC33" class="js-file-line">
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td>Captain Phillips</td>
+        <td>55000000</td>
+        <td>107100855</td>
+        <td>Paul Greengrass</td>
+        <td>PG-13</td>
+        <td>134</td>
+        <td>2013-10-11 00:00:00</td>
+      </tr>
+      <tr id="LC34" class="js-file-line">
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td>Jackass Presents: Bad Grandpa</td>
+        <td>15000000</td>
+        <td>102003019</td>
+        <td>Jeff Tremaine</td>
+        <td>R</td>
+        <td>93</td>
+        <td>2013-10-25 00:00:00</td>
+      </tr>
+      <tr id="LC35" class="js-file-line">
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td>Pacific Rim</td>
+        <td>190000000</td>
+        <td>101802906</td>
+        <td>Guillermo del Toro</td>
+        <td>PG-13</td>
+        <td>131</td>
+        <td>2013-07-12 00:00:00</td>
+      </tr>
+      <tr id="LC36" class="js-file-line">
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td>This is the End</td>
+        <td>32000000</td>
+        <td>101470202</td>
+        <td>Evan GoldbergSeth Rogen</td>
+        <td>R</td>
+        <td>107</td>
+        <td>2013-06-12 00:00:00</td>
+      </tr>
+      <tr id="LC37" class="js-file-line">
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td>Olympus Has Fallen</td>
+        <td>70000000</td>
+        <td>98925640</td>
+        <td>Antoine Fuqua</td>
+        <td>R</td>
+        <td>120</td>
+        <td>2013-03-22 00:00:00</td>
+      </tr>
+      <tr id="LC38" class="js-file-line">
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td>42</td>
+        <td>40000000</td>
+        <td>95020213</td>
+        <td>Brian Helgeland</td>
+        <td>PG-13</td>
+        <td>128</td>
+        <td>2013-04-12 00:00:00</td>
+      </tr>
+      <tr id="LC39" class="js-file-line">
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td>Elysium</td>
+        <td>115000000</td>
+        <td>93050117</td>
+        <td>Neill Blomkamp</td>
+        <td>R</td>
+        <td>109</td>
+        <td>2013-08-09 00:00:00</td>
+      </tr>
+      <tr id="LC40" class="js-file-line">
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td>Planes</td>
+        <td>50000000</td>
+        <td>90288712</td>
+        <td>Klay Hall</td>
+        <td>PG</td>
+        <td>92</td>
+        <td>2013-08-09 00:00:00</td>
+      </tr>
+      <tr id="LC41" class="js-file-line">
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td>The Lone Ranger</td>
+        <td>215000000</td>
+        <td>89302115</td>
+        <td>Gore Verbinski</td>
+        <td>PG-13</td>
+        <td>149</td>
+        <td>2013-07-03 00:00:00</td>
+      </tr>
+      <tr id="LC42" class="js-file-line">
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td>Oblivion</td>
+        <td>120000000</td>
+        <td>89107235</td>
+        <td>Joseph Kosinski</td>
+        <td>PG-13</td>
+        <td>125</td>
+        <td>2013-04-19 00:00:00</td>
+      </tr>
+      <tr id="LC43" class="js-file-line">
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td>Insidious Chapter 2</td>
+        <td>5000000</td>
+        <td>83586447</td>
+        <td>James Wan</td>
+        <td>PG-13</td>
+        <td>105</td>
+        <td>2013-09-13 00:00:00</td>
+      </tr>
+      <tr id="LC44" class="js-file-line">
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td>Saving Mr. Banks</td>
+        <td>35000000</td>
+        <td>83301580</td>
+        <td>John Lee Hancock</td>
+        <td>PG-13</td>
+        <td>120</td>
+        <td>2013-12-13 00:00:00</td>
+      </tr>
+      <tr id="LC45" class="js-file-line">
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td>Turbo</td>
+        <td>135000000</td>
+        <td>83028128</td>
+        <td>David Soren</td>
+        <td>PG</td>
+        <td>96</td>
+        <td>2013-07-17 00:00:00</td>
+      </tr>
+      <tr id="LC46" class="js-file-line">
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td>2 Guns</td>
+        <td>61000000</td>
+        <td>75612460</td>
+        <td>Baltasar Kormakur</td>
+        <td>R</td>
+        <td>109</td>
+        <td>2013-08-02 00:00:00</td>
+      </tr>
+      <tr id="LC47" class="js-file-line">
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td>White House Down</td>
+        <td>150000000</td>
+        <td>73103784</td>
+        <td>Roland Emmerich</td>
+        <td>PG-13</td>
+        <td>137</td>
+        <td>2013-06-28 00:00:00</td>
+      </tr>
+      <tr id="LC48" class="js-file-line">
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td>Mama</td>
+        <td>15000000</td>
+        <td>71628180</td>
+        <td>Andres Muschietti</td>
+        <td>PG-13</td>
+        <td>100</td>
+        <td>2013-01-18 00:00:00</td>
+      </tr>
+      <tr id="LC49" class="js-file-line">
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td>Safe Haven</td>
+        <td>28000000</td>
+        <td>71349120</td>
+        <td>Lasse Hallstrom</td>
+        <td>PG-13</td>
+        <td>115</td>
+        <td>2013-02-14 00:00:00</td>
+      </tr>
+      <tr id="LC50" class="js-file-line">
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td>The Smurfs 2</td>
+        <td>105000000</td>
+        <td>71017784</td>
+        <td>Raja Gosnell</td>
+        <td>PG</td>
+        <td>105</td>
+        <td>2013-07-31 00:00:00</td>
+      </tr>
+      <tr id="LC51" class="js-file-line">
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td>The Best Man Holiday</td>
+        <td>17000000</td>
+        <td>70525195</td>
+        <td>Malcolm D. Lee</td>
+        <td>R</td>
+        <td>122</td>
+        <td>2013-11-15 00:00:00</td>
+      </tr>
+      <tr id="LC52" class="js-file-line">
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td>Percy Jackson: Sea of Monsters</td>
+        <td>90000000</td>
+        <td>68559554</td>
+        <td>Thor Freudenthal</td>
+        <td>PG</td>
+        <td>106</td>
+        <td>2013-08-07 00:00:00</td>
+      </tr>
+      <tr id="LC53" class="js-file-line">
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td>A Good Day to Die Hard</td>
+        <td>92000000</td>
+        <td>67349198</td>
+        <td>John Moore</td>
+        <td>R</td>
+        <td>97</td>
+        <td>2013-02-14 00:00:00</td>
+      </tr>
+      <tr id="LC54" class="js-file-line">
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td>Warm Bodies</td>
+        <td>35000000</td>
+        <td>66380662</td>
+        <td>Jonathan Levine</td>
+        <td>PG-13</td>
+        <td>97</td>
+        <td>2013-02-01 00:00:00</td>
+      </tr>
+      <tr id="LC55" class="js-file-line">
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td>Jack the Giant Slayer</td>
+        <td>195000000</td>
+        <td>65187603</td>
+        <td>Bryan Singer</td>
+        <td>PG-13</td>
+        <td>114</td>
+        <td>2013-03-01 00:00:00</td>
+      </tr>
+      <tr id="LC56" class="js-file-line">
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td>The Purge</td>
+        <td>3000000</td>
+        <td>64473115</td>
+        <td>James DeMonaco</td>
+        <td>R</td>
+        <td>85</td>
+        <td>2013-06-07 00:00:00</td>
+      </tr>
+      <tr id="LC57" class="js-file-line">
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td>Last Vegas</td>
+        <td>28000000</td>
+        <td>63914167</td>
+        <td>Jon Turteltaub</td>
+        <td>PG-13</td>
+        <td>90</td>
+        <td>2013-11-01 00:00:00</td>
+      </tr>
+      <tr id="LC58" class="js-file-line">
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td>Ender&#39;s Game</td>
+        <td>110000000</td>
+        <td>61737191</td>
+        <td>Gavin Hood</td>
+        <td>PG-13</td>
+        <td>114</td>
+        <td>2013-11-01 00:00:00</td>
+      </tr>
+      <tr id="LC59" class="js-file-line">
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td>Prisoners</td>
+        <td>46000000</td>
+        <td>61002302</td>
+        <td>Denis Villeneuve</td>
+        <td>R</td>
+        <td>146</td>
+        <td>2013-09-20 00:00:00</td>
+      </tr>
+      <tr id="LC60" class="js-file-line">
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td>After Earth</td>
+        <td>130000000</td>
+        <td>60522097</td>
+        <td>M. Night Shyamalan</td>
+        <td>PG-13</td>
+        <td>100</td>
+        <td>2013-05-31 00:00:00</td>
+      </tr>
+      <tr id="LC61" class="js-file-line">
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td>The Secret Life of Walter Mitty</td>
+        <td>90000000</td>
+        <td>58236838</td>
+        <td>Ben Stiller</td>
+        <td>PG</td>
+        <td>114</td>
+        <td>2013-12-25 00:00:00</td>
+      </tr>
+      <tr id="LC62" class="js-file-line">
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td>Escape From Planet Earth</td>
+        <td>40000000</td>
+        <td>57012977</td>
+        <td>Cal Brunker</td>
+        <td>PG</td>
+        <td>89</td>
+        <td>2013-02-15 00:00:00</td>
+      </tr>
+      <tr id="LC63" class="js-file-line">
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td>12 Years a Slave</td>
+        <td>20000000</td>
+        <td>56671993</td>
+        <td>Steve McQueen (II)</td>
+        <td>R</td>
+        <td>133</td>
+        <td>2013-10-18 00:00:00</td>
+      </tr>
+      <tr id="LC64" class="js-file-line">
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td>Free Birds</td>
+        <td>55000000</td>
+        <td>55750480</td>
+        <td>Jimmy Hayward</td>
+        <td>PG</td>
+        <td>90</td>
+        <td>2013-11-01 00:00:00</td>
+      </tr>
+      <tr id="LC65" class="js-file-line">
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td>Hansel and Gretel: Witch Hunters</td>
+        <td>50000000</td>
+        <td>55703475</td>
+        <td>Tommy Wirkola</td>
+        <td>R</td>
+        <td>88</td>
+        <td>2013-01-25 00:00:00</td>
+      </tr>
+      <tr id="LC66" class="js-file-line">
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td>Evil Dead</td>
+        <td>17000000</td>
+        <td>54239856</td>
+        <td>Fede Alvarez</td>
+        <td>R</td>
+        <td>91</td>
+        <td>2013-04-05 00:00:00</td>
+      </tr>
+      <tr id="LC67" class="js-file-line">
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td>Red 2</td>
+        <td>84000000</td>
+        <td>53262560</td>
+        <td>Dean Parisot</td>
+        <td>PG-13</td>
+        <td>116</td>
+        <td>2013-07-19 00:00:00</td>
+      </tr>
+      <tr id="LC68" class="js-file-line">
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td>Tyler Perry&#39;s A Madea Christmas</td>
+        <td></td>
+        <td>52543354</td>
+        <td>Tyler Perry</td>
+        <td>PG-13</td>
+        <td>105</td>
+        <td>2013-12-13 00:00:00</td>
+      </tr>
+      <tr id="LC69" class="js-file-line">
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td>Tyler Perry&#39;s Temptation: Confessions of a Marriage Counselor</td>
+        <td></td>
+        <td>51975354</td>
+        <td>Tyler Perry</td>
+        <td>PG-13</td>
+        <td>111</td>
+        <td>2013-03-29 00:00:00</td>
+      </tr>
+      <tr id="LC70" class="js-file-line">
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td>The Call</td>
+        <td>13000000</td>
+        <td>51872378</td>
+        <td>Brad Anderson</td>
+        <td>R</td>
+        <td>95</td>
+        <td>2013-03-15 00:00:00</td>
+      </tr>
+      <tr id="LC71" class="js-file-line">
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td>Pain and Gain</td>
+        <td>26000000</td>
+        <td>49875291</td>
+        <td>Michael Bay</td>
+        <td>R</td>
+        <td>129</td>
+        <td>2013-04-26 00:00:00</td>
+      </tr>
+      <tr id="LC72" class="js-file-line">
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td>Gangster Squad</td>
+        <td>60000000</td>
+        <td>46000903</td>
+        <td>Ruben Fleischer</td>
+        <td>R</td>
+        <td>113</td>
+        <td>2013-01-11 00:00:00</td>
+      </tr>
+      <tr id="LC73" class="js-file-line">
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td>Jurassic Park 3D</td>
+        <td>10000000</td>
+        <td>45385935</td>
+        <td></td>
+        <td>PG-13</td>
+        <td>127</td>
+        <td>2013-04-05 00:00:00</td>
+      </tr>
+      <tr id="LC74" class="js-file-line">
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td>The Internship</td>
+        <td>58000000</td>
+        <td>44672764</td>
+        <td>Shawn Levy</td>
+        <td>PG-13</td>
+        <td>119</td>
+        <td>2013-06-07 00:00:00</td>
+      </tr>
+      <tr id="LC75" class="js-file-line">
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td>Instructions Not Included</td>
+        <td></td>
+        <td>44467206</td>
+        <td></td>
+        <td>PG-13</td>
+        <td>115</td>
+        <td>2013-08-30 00:00:00</td>
+      </tr>
+      <tr id="LC76" class="js-file-line">
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td>Snitch</td>
+        <td></td>
+        <td>42930462</td>
+        <td>Ric Roman Waugh</td>
+        <td>PG-13</td>
+        <td>112</td>
+        <td>2013-02-22 00:00:00</td>
+      </tr>
+      <tr id="LC77" class="js-file-line">
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td>Riddick</td>
+        <td>38000000</td>
+        <td>42025135</td>
+        <td>David Twohy</td>
+        <td>R</td>
+        <td>119</td>
+        <td>2013-09-06 00:00:00</td>
+      </tr>
+      <tr id="LC78" class="js-file-line">
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td>A Haunted House</td>
+        <td>2500000</td>
+        <td>40041683</td>
+        <td>Michael Tiddes</td>
+        <td>R</td>
+        <td>80</td>
+        <td>2013-01-11 00:00:00</td>
+      </tr>
+      <tr id="LC79" class="js-file-line">
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td>47 Ronin</td>
+        <td>175000000</td>
+        <td>38362475</td>
+        <td>Carl Rinsch</td>
+        <td>PG-13</td>
+        <td>127</td>
+        <td>2013-12-25 00:00:00</td>
+      </tr>
+      <tr id="LC80" class="js-file-line">
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td>August: Osage County</td>
+        <td></td>
+        <td>37738810</td>
+        <td>John Wells</td>
+        <td>R</td>
+        <td>130</td>
+        <td>2013-12-27 00:00:00</td>
+      </tr>
+      <tr id="LC81" class="js-file-line">
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td>Philomena</td>
+        <td>12000000</td>
+        <td>37709979</td>
+        <td>Stephen Frears</td>
+        <td>PG-13</td>
+        <td>95</td>
+        <td>2013-11-22 00:00:00</td>
+      </tr>
+      <tr id="LC82" class="js-file-line">
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td>The Family</td>
+        <td>30000000</td>
+        <td>36918811</td>
+        <td>Luc Besson</td>
+        <td>R</td>
+        <td>112</td>
+        <td>2013-09-13 00:00:00</td>
+      </tr>
+      <tr id="LC83" class="js-file-line">
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td>Walking with Dinosaurs</td>
+        <td>80000000</td>
+        <td>36076121</td>
+        <td>Barry CookNeil Nightingale</td>
+        <td>PG</td>
+        <td>87</td>
+        <td>2013-12-20 00:00:00</td>
+      </tr>
+      <tr id="LC84" class="js-file-line">
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td>Carrie</td>
+        <td>30000000</td>
+        <td>35266619</td>
+        <td>Kimberly Peirce</td>
+        <td>R</td>
+        <td>92</td>
+        <td>2013-10-18 00:00:00</td>
+      </tr>
+      <tr id="LC85" class="js-file-line">
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td>Texas Chainsaw 3D</td>
+        <td></td>
+        <td>34341945</td>
+        <td>John Luessenhop</td>
+        <td>R</td>
+        <td>92</td>
+        <td>2013-01-04 00:00:00</td>
+      </tr>
+      <tr id="LC86" class="js-file-line">
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td>R.I.P.D.</td>
+        <td>130000000</td>
+        <td>33618855</td>
+        <td>Robert Schwentke</td>
+        <td>PG-13</td>
+        <td>96</td>
+        <td>2013-07-19 00:00:00</td>
+      </tr>
+      <tr id="LC87" class="js-file-line">
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td>Blue Jasmine</td>
+        <td></td>
+        <td>33405481</td>
+        <td>Woody Allen</td>
+        <td>PG-13</td>
+        <td>98</td>
+        <td>2013-07-26 00:00:00</td>
+      </tr>
+      <tr id="LC88" class="js-file-line">
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td>Kevin Hart: Let Me Explain</td>
+        <td></td>
+        <td>32244051</td>
+        <td></td>
+        <td>R</td>
+        <td>75</td>
+        <td>2013-07-03 00:00:00</td>
+      </tr>
+      <tr id="LC89" class="js-file-line">
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td>Side Effects</td>
+        <td></td>
+        <td>32172757</td>
+        <td>Steven Soderbergh</td>
+        <td>R</td>
+        <td>106</td>
+        <td>2013-02-08 00:00:00</td>
+      </tr>
+      <tr id="LC90" class="js-file-line">
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td>Scary Movie 5</td>
+        <td>20000000</td>
+        <td>32015787</td>
+        <td>Malcolm D. Lee</td>
+        <td>PG-13</td>
+        <td>85</td>
+        <td>2013-04-12 00:00:00</td>
+      </tr>
+      <tr id="LC91" class="js-file-line">
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td>The Mortal Instruments: City of Bones</td>
+        <td>60000000</td>
+        <td>31165421</td>
+        <td>Harald Zwart</td>
+        <td>PG-13</td>
+        <td>120</td>
+        <td>2013-08-21 00:00:00</td>
+      </tr>
+      <tr id="LC92" class="js-file-line">
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td>Delivery Man</td>
+        <td>26000000</td>
+        <td>30664106</td>
+        <td>Ken Scott</td>
+        <td>PG-13</td>
+        <td>105</td>
+        <td>2013-11-22 00:00:00</td>
+      </tr>
+      <tr id="LC93" class="js-file-line">
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td>Grudge Match</td>
+        <td>40000000</td>
+        <td>29807260</td>
+        <td>Peter Segal</td>
+        <td>PG-13</td>
+        <td>113</td>
+        <td>2013-12-25 00:00:00</td>
+      </tr>
+      <tr id="LC94" class="js-file-line">
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td>One Direction: This is Us</td>
+        <td>10000000</td>
+        <td>28873374</td>
+        <td>Morgan Spurlock</td>
+        <td>PG</td>
+        <td>92</td>
+        <td>2013-08-30 00:00:00</td>
+      </tr>
+      <tr id="LC95" class="js-file-line">
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td>Kick-Ass 2</td>
+        <td>28000000</td>
+        <td>28795985</td>
+        <td>Jeff Wadlow</td>
+        <td>R</td>
+        <td>103</td>
+        <td>2013-08-16 00:00:00</td>
+      </tr>
+      <tr id="LC96" class="js-file-line">
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td>Dallas Buyers Club</td>
+        <td>5000000</td>
+        <td>27298285</td>
+        <td>Jean-Marc Vallee</td>
+        <td>R</td>
+        <td>117</td>
+        <td>2013-11-01 00:00:00</td>
+      </tr>
+      <tr id="LC97" class="js-file-line">
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td>Rush</td>
+        <td>38000000</td>
+        <td>26947624</td>
+        <td>Ron Howard</td>
+        <td>R</td>
+        <td>123</td>
+        <td>2013-09-20 00:00:00</td>
+      </tr>
+      <tr id="LC98" class="js-file-line">
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td>The Host</td>
+        <td>40000000</td>
+        <td>26627201</td>
+        <td>Andrew Niccol</td>
+        <td>PG-13</td>
+        <td>125</td>
+        <td>2013-03-29 00:00:00</td>
+      </tr>
+      <tr id="LC99" class="js-file-line">
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td>The World&#39;s End</td>
+        <td>20000000</td>
+        <td>26004851</td>
+        <td>Edgar Wright</td>
+        <td>R</td>
+        <td>109</td>
+        <td>2013-08-23 00:00:00</td>
+      </tr>
+      <tr id="LC100" class="js-file-line">
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td>21 and Over</td>
+        <td>13000000</td>
+        <td>25682380</td>
+        <td>Jon LucasScott Moore</td>
+        <td>R</td>
+        <td>93</td>
+        <td>2013-03-01 00:00:00</td>
+      </tr>
+      <tr id="LC101" class="js-file-line">
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td>Her</td>
+        <td>23000000</td>
+        <td>25568251</td>
+        <td>Spike Jonze</td>
+        <td>R</td>
+        <td>120</td>
+        <td>2013-12-18 00:00:00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  </div>
+
+</div>
+
+<a href="#jump-to-line" rel="facebox[.linejump]" data-hotkey="l" style="display:none">Jump to Line</a>
+<div id="jump-to-line" style="display:none">
+  <form accept-charset="UTF-8" action="" class="js-jump-to-line-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input class="linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" autofocus>
+    <button type="submit" class="btn">Go</button>
+</form></div>
+
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div><!-- /.container -->
+  </div><!-- /.site -->
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+      <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.09470s from github-fe130-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-suggester-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents" placeholder=""></textarea>
+      <div class="suggester-container">
+        <div class="suggester fullscreen-suggester js-suggester js-navigation-container"></div>
+      </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-x flash-close js-ajax-error-dismiss" aria-label="Dismiss error"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-3241a40a58a82e21daef3dd3cdca01bde189158793c1b6f9193fff2b5293cd1d.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github/index-471e16c385630fc90f72fdbad66daf608b8acc111540b962c14a5b615213e705.js"></script>
+      
+      
+  </body>
+</html>
+

@@ -1,0 +1,2058 @@
+(dp0
+S'Josh Hartnett'
+p1
+S'1997present'
+p2
+sS'Shailene Woodley'
+p3
+S'1999present'
+p4
+sS'Helena Bonham Carter'
+p5
+S'1986present'
+p6
+sS'Ron Livingston'
+p7
+S'1992present'
+p8
+sS'Anna Kendrick'
+p9
+S'1998present'
+p10
+sS'Alfred Molina'
+p11
+S'1978present'
+p12
+sS'John Krasinski'
+p13
+S'2000present'
+p14
+sS'Liev Schreiber'
+p15
+S'1994present'
+p16
+sS'Mark Strong'
+p17
+S'1989present'
+p18
+sS'Nick Swardson'
+p19
+S'1997present'
+p20
+sS'Jena Malone'
+p21
+S'1996present'
+p22
+sS'Joan Allen'
+p23
+S'1977present'
+p24
+sS'Beyonce Knowles'
+p25
+S'1997present'
+p26
+sS'Gena Rowlands'
+p27
+S'1954present'
+p28
+sS'Amanda Bynes'
+p29
+S'19962012 (acting)'
+p30
+sS'Tommy Lee Jones'
+p31
+S'1970present'
+p32
+sS'Kellan Lutz'
+p33
+S'2004present'
+p34
+sS'Brendan Fraser'
+p35
+S'1988present'
+p36
+sS'Benedict Cumberbatch'
+p37
+S'2000present'
+p38
+sS'Susan Sarandon'
+p39
+S'1970present'
+p40
+sS'Philip Seymour Hoffman'
+p41
+S'19912014'
+p42
+sS'Forest Whitaker'
+p43
+S'1982present'
+p44
+sS'Omar Epps'
+p45
+S'1988present'
+p46
+sS'Tilda Swinton'
+p47
+S'1984present'
+p48
+sS'Holly Hunter'
+p49
+S'1981present'
+p50
+sS'Rob Schneider'
+p51
+S'1987present'
+p52
+sS'Rebecca Romijn'
+p53
+S'None'
+p54
+sS'Anthony Mackie'
+p55
+S'2002present'
+p56
+sS'Uma Thurman'
+p57
+S'1985present'
+p58
+sS'Sam Worthington'
+p59
+S'2000present'
+p60
+sS'Natalie Portman'
+p61
+S'1992present'
+p62
+sS'Toni Collette'
+p63
+S'1990present'
+p64
+sS'Mindy Kaling'
+p65
+S'2003present'
+p66
+sS'Jonah Hill'
+p67
+S'2004present'
+p68
+sS'Dakota Fanning'
+p69
+S'2000present'
+p70
+sS'Paul Bettany'
+p71
+S'1994present'
+p72
+sS'Jason Schwartzman'
+p73
+S'1998present'
+p74
+sS'James Gandolfini'
+p75
+S'19872013'
+p76
+sS'Robert Pattinson'
+p77
+S'2004present'
+p78
+sS'Parker Posey'
+p79
+S'1991present'
+p80
+sS'Heath Ledger'
+p81
+S'19932008'
+p82
+sS'Bridget Moynahan'
+p83
+S'1989present'
+p84
+sS'Josh Hutcherson'
+p85
+S'2002present'
+p86
+sS'Guy Pearce'
+p87
+S'1986present'
+p88
+sS'Anne Bancroft'
+p89
+S'19512005'
+p90
+sS'Charlize Theron'
+p91
+S'1995present'
+p92
+sS'Breckin Meyer'
+p93
+S'1986present'
+p94
+sS'Craig T. Nelson'
+p95
+S'1971present'
+p96
+sS'Charlie Sheen'
+p97
+S'1973present'
+p98
+sS'Ryan Gosling'
+p99
+S'2007present'
+p100
+sS'Colin Farrell'
+p101
+S'1997present'
+p102
+sS'Anna Paquin'
+p103
+S'1993present'
+p104
+sS'Rutger Hauer'
+p105
+S'1969present'
+p106
+sS'Jessica Chastain'
+p107
+S'2004present'
+p108
+sS'Emily Blunt'
+p109
+S'2003present'
+p110
+sS'Harrison Ford'
+p111
+S'1966present'
+p112
+sS'Neve Campbell'
+p113
+S'1991present'
+p114
+sS'Alec Baldwin'
+p115
+S'1980present'
+p116
+sS'Mike Myers'
+p117
+S'1975present'
+p118
+sS'Kiefer Sutherland'
+p119
+S'1983present'
+p120
+sS'Justin Long'
+p121
+S'1999present'
+p122
+sS'Rosie Huntington-Whiteley'
+p123
+S'2003present'
+p124
+sS'Andrew Garfield'
+p125
+S'2004present'
+p126
+sS'Tom Cruise'
+p127
+S'1981present'
+p128
+sS'Kate Hudson'
+p129
+S'1996present'
+p130
+sS'Robert Duvall'
+p131
+S'1952present'
+p132
+sS'Sandra Bullock'
+p133
+S'1987present'
+p134
+sS'Karen Gillan'
+p135
+S'2006present'
+p136
+sS'Pierce Brosnan'
+p137
+S'None'
+p138
+sS'Justin Timberlake'
+p139
+S'1992present'
+p140
+sS'Ty Burrell'
+p141
+S'2000present'
+p142
+sS'Whitney Houston'
+p143
+S'19772012'
+p144
+sS'Mary Elizabeth Winstead'
+p145
+S'1997present'
+p146
+sS'Jake Gyllenhaal'
+p147
+S'1991present'
+p148
+sS'David Duchovny'
+p149
+S'1987present'
+p150
+sS'Jim Broadbent'
+p151
+S'None'
+p152
+sS'Sam Elliott'
+p153
+S'1968-present'
+p154
+sS'Hayden Christensen'
+p155
+S'1993present'
+p156
+sS'Lucas Black'
+p157
+S'1994present'
+p158
+sS'Orlando Bloom'
+p159
+S'1994present'
+p160
+sS'Tina Fey'
+p161
+S'1997present'
+p162
+sS'Charlie Day'
+p163
+S'2000present'
+p164
+sS'Al Pacino'
+p165
+S'1967present'
+p166
+sS'Milla Jovovich'
+p167
+S'1985present'
+p168
+sS'Noomi Rapace'
+p169
+S'1988present'
+p170
+sS'Daniel Craig'
+p171
+S'1992present'
+p172
+sS'Stellan Skarsgard'
+p173
+S'1968present'
+p174
+sS'Josh Brolin'
+p175
+S'1985present'
+p176
+sS'Johnny Depp'
+p177
+S'1984present'
+p178
+sS'Thandie Newton'
+p179
+S'1991present'
+p180
+sS'Ben Foster'
+p181
+S'1996present'
+p182
+sS'Brad Pitt'
+p183
+S'1987present'
+p184
+sS'Emma Stone'
+p185
+S'2004present'
+p186
+sS'Queen Latifah'
+p187
+S'1988present'
+p188
+sS'Channing Tatum'
+p189
+S'2000present'
+p190
+sS'Bill Murray'
+p191
+S'1973present'
+p192
+sS'Jennifer Garner'
+p193
+S'1995present'
+p194
+sS'Mandy Moore'
+p195
+S'1999present'
+p196
+sS'Jennifer Love Hewitt'
+p197
+S'1989present'
+p198
+sS'Ioan Gruffudd'
+p199
+S'1986present'
+p200
+sS'Anne Hathaway'
+p201
+S'1998present'
+p202
+sS'Joey King'
+p203
+S'2006present'
+p204
+sS'Christina Ricci'
+p205
+S'1990present'
+p206
+sS'Joel David Moore'
+p207
+S'1996'
+p208
+sS'Johnny Knoxville'
+p209
+S'1992present'
+p210
+sS'Tobey Maguire'
+p211
+S'1988present'
+p212
+sS'Val Kilmer'
+p213
+S'1977present'
+p214
+sS'Stanley Tucci'
+p215
+S'1985present'
+p216
+sS'Wesley Snipes'
+p217
+S'1986present'
+p218
+sS'Jason Segel'
+p219
+S'1998present'
+p220
+sS'Julia Stiles'
+p221
+S'1996present'
+p222
+sS'Carrie-Anne Moss'
+p223
+S'1989present'
+p224
+sS'Kate Winslet'
+p225
+S'1991present'
+p226
+sS'Katie Holmes'
+p227
+S'1997present'
+p228
+sS'Helen Mirren'
+p229
+S'1965present'
+p230
+sS'John Cusack'
+p231
+S'1983present'
+p232
+sS'Olivia Thirlby'
+p233
+S'2006present'
+p234
+sS'David Oyelowo'
+p235
+S'1998present'
+p236
+sS'Logan Lerman'
+p237
+S'2000present'
+p238
+sS'Kelsey Grammer'
+p239
+S'1979present'
+p240
+sS'Greg Kinnear'
+p241
+S'1988present'
+p242
+sS'Tom Hanks'
+p243
+S'1978present'
+p244
+sS'Hailee Steinfeld'
+p245
+S'2007present'
+p246
+sS'Gwyneth Paltrow'
+p247
+S'1989present'
+p248
+sS'Clint Eastwood'
+p249
+S'1954present'
+p250
+sS'Emma Watson'
+p251
+S'1999present'
+p252
+sS'Frank Langella'
+p253
+S'1965present'
+p254
+sS'Ethan Hawke'
+p255
+S'1985present'
+p256
+sS'Antonio Banderas'
+p257
+S'1982present'
+p258
+sS'Hugh Jackman'
+p259
+S'1994present'
+p260
+sS'Jackie Earle Haley'
+p261
+S'1972-1993; 2006-present'
+p262
+sS'Dominic Cooper'
+p263
+S'1995present'
+p264
+sS'Nicole Kidman'
+p265
+S'1983present'
+p266
+sS'Franka Potente'
+p267
+S'1995present'
+p268
+sS'Kim Basinger'
+p269
+S'1971present'
+p270
+sS'Leslie Nielsen'
+p271
+S'19482010'
+p272
+sS'Michael Keaton'
+p273
+S'1975present'
+p274
+sS'Judi Dench'
+p275
+S'1957present'
+p276
+sS'Alan Alda'
+p277
+S'1958present'
+p278
+sS'Keira Knightley'
+p279
+S'1993present'
+p280
+sS'Ed Harris'
+p281
+S'1978present'
+p282
+sS'Liam Neeson'
+p283
+S'1976present'
+p284
+sS'January Jones'
+p285
+S'1999present'
+p286
+sS'Angela Bassett'
+p287
+S'1985present'
+p288
+sS'Matt Damon'
+p289
+S'1988present'
+p290
+sS'Adrien Brody'
+p291
+S'1988present'
+p292
+sS'Jodie Foster'
+p293
+S'1968present'
+p294
+sS'Bette Midler'
+p295
+S'1965present'
+p296
+sS'Kurt Russell'
+p297
+S'1957present'
+p298
+sS'Joaquin Phoenix'
+p299
+S'1982present'
+p300
+sS'Barbra Streisand'
+p301
+S'1955present'
+p302
+sS'Sydney Pollack'
+p303
+S'19502008'
+p304
+sS'Christopher Walken'
+p305
+S'1952present'
+p306
+sS'Rory Culkin'
+p307
+S'1993present'
+p308
+sS'Katherine Heigl'
+p309
+S'1986present'
+p310
+sS'Don Cheadle'
+p311
+S'1984present'
+p312
+sS'Sanaa Lathan'
+p313
+S'1996present'
+p314
+sS'Cillian Murphy'
+p315
+S'None'
+p316
+sS'Ashley Judd'
+p317
+S'1991present'
+p318
+sS'Hugh Laurie'
+p319
+S'1981present'
+p320
+sS'Clark Duke'
+p321
+S'1992present'
+p322
+sS'Miles Teller'
+p323
+S'2004present'
+p324
+sS'America Ferrera'
+p325
+S'2002present'
+p326
+sS'Henry Cavill'
+p327
+S'2001present'
+p328
+sS'Courteney Cox'
+p329
+S'1984present'
+p330
+sS'Nick Frost'
+p331
+S'1998present'
+p332
+sS'Jennifer Aniston'
+p333
+S'1987present'
+p334
+sS'Adam Scott'
+p335
+S'1994present'
+p336
+sS'Ashley Greene'
+p337
+S'2005present'
+p338
+sS'Mark Wahlberg'
+p339
+S'1989present'
+p340
+sS'Hilary Duff'
+p341
+S'1993present'
+p342
+sS'Taylor Kitsch'
+p343
+S'None'
+p344
+sS'Matthew Broderick'
+p345
+S'1981present'
+p346
+sS'Ian McKellen'
+p347
+S'1959present'
+p348
+sS'Steve Coogan'
+p349
+S'1987present'
+p350
+sS'Chris Evans'
+p351
+S'1999present'
+p352
+sS'Ryan Phillippe'
+p353
+S'1992present'
+p354
+sS'Brandon T. Jackson'
+p355
+S'1997present'
+p356
+sS'Katharine Hepburn'
+p357
+S'19281994'
+p358
+sS'Diane Keaton'
+p359
+S'1968present'
+p360
+sS'Rufus Sewell'
+p361
+S'None'
+p362
+sS'Marlon Brando'
+p363
+S'19452001'
+p364
+sS'Bonnie Hunt'
+p365
+S'1984present'
+p366
+sS'Kevin Kline'
+p367
+S'1972present'
+p368
+sS'Blake Lively'
+p369
+S'1998present'
+p370
+sS'Kenneth Branagh'
+p371
+S'1981present'
+p372
+sS'Casey Affleck'
+p373
+S'1988present'
+p374
+sS'Catherine Zeta-Jones'
+p375
+S'1981present'
+p376
+sS'Hayden Panettiere'
+p377
+S'1994present'
+p378
+sS'Brendan Gleeson'
+p379
+S'1989present'
+p380
+sS'James McAvoy'
+p381
+S'1995present'
+p382
+sS'Samuel L. Jackson'
+p383
+S'1972present'
+p384
+sS'Lena Headey'
+p385
+S'1992present'
+p386
+sS'Hugh Grant'
+p387
+S'1982present'
+p388
+sS'Melissa McCarthy'
+p389
+S'1997-2015'
+p390
+sS'Winona Ryder'
+p391
+S'1985present'
+p392
+sS'Garrett Hedlund'
+p393
+S'2004present'
+p394
+sS'Geoffrey Rush'
+p395
+S'1971present'
+p396
+sS'Emmy Rossum'
+p397
+S'1993present'
+p398
+sS'Michael Fassbender'
+p399
+S'1994present'
+p400
+sS'Lance Henriksen'
+p401
+S'1961present'
+p402
+sS'Ryan Reynolds'
+p403
+S'1991present'
+p404
+sS'Lindsay Lohan'
+p405
+S'1989present'
+p406
+sS'Karl Urban'
+p407
+S'1990present'
+p408
+sS'Chris Klein'
+p409
+S'1999present'
+p410
+sS'Keanu Reeves'
+p411
+S'1984present'
+p412
+sS'Kristen Bell'
+p413
+S'1992present'
+p414
+sS'Tom Hiddleston'
+p415
+S'2001present'
+p416
+sS'Brian Cox'
+p417
+S'1965present'
+p418
+sS'Jon Hamm'
+p419
+S'1996present'
+p420
+sS'Brittany Murphy'
+p421
+S'19912009'
+p422
+sS'Renee Zellweger'
+p423
+S'1992present'
+p424
+sS'Mike Vogel'
+p425
+S'2001present'
+p426
+sS'Luke Wilson'
+p427
+S'1994present'
+p428
+sS'Snoop Dogg'
+p429
+S'1992present'
+p430
+sS'Monica Bellucci'
+p431
+S'None'
+p432
+sS'Julie Andrews'
+p433
+S'None'
+p434
+sS'Eva Mendes'
+p435
+S'1998present'
+p436
+sS'Michael Cera'
+p437
+S'1998present'
+p438
+sS'Elijah Wood'
+p439
+S'1988present'
+p440
+sS'Mel Gibson'
+p441
+S'1976present'
+p442
+sS'The Rock'
+p443
+S'None'
+p444
+sS'Drew Barrymore'
+p445
+S'1978present'
+p446
+sS'Kate Beckinsale'
+p447
+S'1991present'
+p448
+sS'Alexa Vega'
+p449
+S'1993present'
+p450
+sS'Jim Carrey'
+p451
+S'1980present'
+p452
+sS'John Slattery'
+p453
+S'1989present'
+p454
+sS'Piper Perabo'
+p455
+S'1997present'
+p456
+sS'Michelle Williams'
+p457
+S'1993present'
+p458
+sS'John Travolta'
+p459
+S'1969present'
+p460
+sS'Topher Grace'
+p461
+S'1998present'
+p462
+sS'Woody Harrelson'
+p463
+S'1985present'
+p464
+sS'Ben Stiller'
+p465
+S'1975present'
+p466
+sS'Gemma Arterton'
+p467
+S'2007present'
+p468
+sS'Paul Rudd'
+p469
+S'1992present'
+p470
+sS'Jamie Bell'
+p471
+S'2000present'
+p472
+sS'Chris Pine'
+p473
+S'2003present'
+p474
+sS'Melissa Leo'
+p475
+S'1984present'
+p476
+sS'Elizabeth Banks'
+p477
+S'1998present'
+p478
+sS'Russell Brand'
+p479
+S'1994present'
+p480
+sS'James Caviezel'
+p481
+S'1989present'
+p482
+sS'Nia Vardalos'
+p483
+S'1996present'
+p484
+sS'Cher'
+p485
+S'1963present'
+p486
+sS'Michael Ealy'
+p487
+S'late 1990spresent'
+p488
+sS'Zachary Levi'
+p489
+S'2001present'
+p490
+sS'Albert Brooks'
+p491
+S'1969present'
+p492
+sS'Demi Moore'
+p493
+S'1981present'
+p494
+sS'Bryan Cranston'
+p495
+S'1980present'
+p496
+sS'Viggo Mortensen'
+p497
+S'1984present'
+p498
+sS'Olivia Wilde'
+p499
+S'2003present'
+p500
+sS'Patrick Swayze'
+p501
+S'19792009'
+p502
+sS'Denise Richards'
+p503
+S'1986present'
+p504
+sS'Kevin James'
+p505
+S'1989present'
+p506
+sS'Jai Courtney'
+p507
+S'2005present'
+p508
+sS'Russell Crowe'
+p509
+S'1985present'
+p510
+sS'Woody Allen'
+p511
+S'1950present'
+p512
+sS'Kate Bosworth'
+p513
+S'1997present'
+p514
+sS'Willem Dafoe'
+p515
+S'1980present'
+p516
+sS'Timothy Olyphant'
+p517
+S'1995present'
+p518
+sS'Jada Pinkett-Smith'
+p519
+S'1990present'
+p520
+sS'Seth Green'
+p521
+S'1984present'
+p522
+sS'Javier Bardem'
+p523
+S'1990present'
+p524
+sS'Kathy Bates'
+p525
+S'1971present'
+p526
+sS'Rhys Ifans'
+p527
+S'1990present'
+p528
+sS'Jennifer Coolidge'
+p529
+S'1993present'
+p530
+sS'Julianne Moore'
+p531
+S'1983present'
+p532
+sS'Michael Caine'
+p533
+S'1953present'
+p534
+sS'Bradley Cooper'
+p535
+S'1999present'
+p536
+sS'Robert DeNiro'
+p537
+S'1963present'
+p538
+sS'Chris Hemsworth'
+p539
+S'2002present'
+p540
+sS'Jake Johnson'
+p541
+S'2006present'
+p542
+sS'David Schwimmer'
+p543
+S'1989present'
+p544
+sS'Thomas Haden Church'
+p545
+S'1989present'
+p546
+sS'Tom Wilkinson'
+p547
+S'1976present'
+p548
+sS'Mark Hamill'
+p549
+S'1970 - present'
+p550
+sS'Robert Downey, Jr.'
+p551
+S'1970present'
+p552
+sS'Paul Giamatti'
+p553
+S'1989present'
+p554
+sS'Robin Williams'
+p555
+S'19762014'
+p556
+sS'Simon Pegg'
+p557
+S'1995present'
+p558
+sS'Steve Carell'
+p559
+S'1986present'
+p560
+sS'Will Smith'
+p561
+S'1985present'
+p562
+sS'Clark Gregg'
+p563
+S'1988present'
+p564
+sS'Vera Farmiga'
+p565
+S'1996present'
+p566
+sS'Jonathan Rhys Meyers'
+p567
+S'1994present'
+p568
+sS'Terrence Howard'
+p569
+S'1992present'
+p570
+sS'Aaron Johnson'
+p571
+S'2001present'
+p572
+sS'Chris Cooper'
+p573
+S'1987present'
+p574
+sS'Mark Ruffalo'
+p575
+S'1988present'
+p576
+sS'Billy Crudup'
+p577
+S'1994present'
+p578
+sS'Meg Ryan'
+p579
+S'1981present'
+p580
+sS'Owen Wilson'
+p581
+S'1994present'
+p582
+sS'Idris Elba'
+p583
+S'1994present'
+p584
+sS'Michelle Pfeiffer'
+p585
+S'1978present'
+p586
+sS'Shawn Wayans'
+p587
+S'1988present'
+p588
+sS'Tom Arnold'
+p589
+S'1987present'
+p590
+sS'Neil Patrick Harris'
+p591
+S'1988present'
+p592
+sS'Michael Sheen'
+p593
+S'1991present'
+p594
+sS'Randy Quaid'
+p595
+S'19712009'
+p596
+sS'Michelle Rodriguez'
+p597
+S'1999present'
+p598
+sS'Jon Favreau'
+p599
+S'1992present'
+p600
+sS'Jeff Bridges'
+p601
+S'1950present'
+p602
+sS'Paul Newman'
+p603
+S'None'
+p604
+sS'Ice Cube'
+p605
+S'1984present'
+p606
+sS'Amanda Peet'
+p607
+S'1995present'
+p608
+sS'Ron Howard'
+p609
+S'1956present'
+p610
+sS'Rose Byrne'
+p611
+S'1994present'
+p612
+sS'Sharlto Copley'
+p613
+S'2006present'
+p614
+sS'Billy Burke'
+p615
+S'1990present'
+p616
+sS'Kirsten Dunst'
+p617
+S'1988present'
+p618
+sS'Benjamin Bratt'
+p619
+S'1987present'
+p620
+sS'Jay Baruchel'
+p621
+S'1995present'
+p622
+sS'Josh Duhamel'
+p623
+S'1999present'
+p624
+sS'Jason Statham'
+p625
+S'1998present'
+p626
+sS'Nia Long'
+p627
+S'1986present'
+p628
+sS'Christopher Reeve'
+p629
+S'19742004'
+p630
+sS'Ewan McGregor'
+p631
+S'1993present'
+p632
+sS'Ben Affleck'
+p633
+S'1981present'
+p634
+sS'Sarah Michelle Gellar'
+p635
+S'1981present'
+p636
+sS'Matt Dillon'
+p637
+S'1979present'
+p638
+sS'Jack Nicholson'
+p639
+S'1957present'
+p640
+sS'Michael Douglas'
+p641
+S'1966present'
+p642
+sS'Jason Sudeikis'
+p643
+S'2003present'
+p644
+sS'Hilary Swank'
+p645
+S'1990present'
+p646
+sS'Josh Gad'
+p647
+S'2002present'
+p648
+sS'Adam Brody'
+p649
+S'1995present'
+p650
+sS'Rene Russo'
+p651
+S'1972present'
+p652
+sS'Jason Bateman'
+p653
+S'1981present'
+p654
+sS'George Clooney'
+p655
+S'1978present'
+p656
+sS'Tea Leoni'
+p657
+S'1989present'
+p658
+sS'Gary Oldman'
+p659
+S'1979present'
+p660
+sS'Macaulay Culkin'
+p661
+S'19851994; 2003-present'
+p662
+sS'Ray Stevenson'
+p663
+S'1993present'
+p664
+sS'Mila Kunis'
+p665
+S'1994present'
+p666
+sS'Denzel Washington'
+p667
+S'1974present'
+p668
+sS'Regina Hall'
+p669
+S'1992present'
+p670
+sS'Jonathan Pryce'
+p671
+S'1970present'
+p672
+sS'Jon Voight'
+p673
+S'1963present'
+p674
+sS'Annette Bening'
+p675
+S'1986present'
+p676
+sS'Jennifer Connelly'
+p677
+S'None'
+p678
+sS'Anna Faris'
+p679
+S'1991present'
+p680
+sS'Michael Clarke Duncan'
+p681
+S'19952012'
+p682
+sS'Dev Patel'
+p683
+S'2007present'
+p684
+sS'Seth MacFarlane'
+p685
+S'1995present'
+p686
+sS'Jessica Alba'
+p687
+S'1994present'
+p688
+sS'Paula Patton'
+p689
+S'2004present'
+p690
+sS'Rob Riggle'
+p691
+S'1998present'
+p692
+sS'David Spade'
+p693
+S'1987present'
+p694
+sS'Billy Bob Thornton'
+p695
+S'1986present'
+p696
+sS'Patrick Stewart'
+p697
+S'1959present'
+p698
+sS"Chris O'Donnell"
+p699
+S'1986present'
+p700
+sS'Teresa Palmer'
+p701
+S'2005present'
+p702
+sS'Sean Bean'
+p703
+S'1983present'
+p704
+sS'Sally Field'
+p705
+S'1962present'
+p706
+sS'James Franco'
+p707
+S'1997present'
+p708
+sS'Jack Davenport'
+p709
+S'1996present'
+p710
+sS'James Marsden'
+p711
+S'1993-present'
+p712
+sS'Julia Roberts'
+p713
+S'1987present'
+p714
+sS'Kristen Wiig'
+p715
+S'2003present'
+p716
+sS'Cam Gigandet'
+p717
+S'2003present'
+p718
+sS'Marlon Wayans'
+p719
+S'1988present'
+p720
+sS'Imelda Staunton'
+p721
+S'1976present'
+p722
+sS'Sharon Stone'
+p723
+S'1980present'
+p724
+sS'Jeffrey Wright'
+p725
+S'1990present'
+p726
+sS'Rebecca Hall'
+p727
+S'1992present'
+p728
+sS'Miley Cyrus'
+p729
+S'2006present'
+p730
+sS'Robert Redford'
+p731
+S'1959present'
+p732
+sS'Liam Hemsworth'
+p733
+S'2007present'
+p734
+sS'Michelle Trachtenberg'
+p735
+S'1991present'
+p736
+sS'Justin Bartha'
+p737
+S'1998present'
+p738
+sS'Christian Bale'
+p739
+S'1982present'
+p740
+sS'Meryl Streep'
+p741
+S'1971present'
+p742
+sS'Jennifer Lopez'
+p743
+S'1986present'
+p744
+sS'Diego Luna'
+p745
+S'1982present'
+p746
+sS'Christina Applegate'
+p747
+S'1972present'
+p748
+sS'Sigourney Weaver'
+p749
+S'1976present'
+p750
+sS'James Garner'
+p751
+S'None'
+p752
+sS'Amy Adams'
+p753
+S'1995present'
+p754
+sS'Leslie Mann'
+p755
+S'1989present'
+p756
+sS'Dustin Hoffman'
+p757
+S'1960present'
+p758
+sS'Shia LaBeouf'
+p759
+S'1996present'
+p760
+sS'Giovanni Ribisi'
+p761
+S'1985present'
+p762
+sS'Naomie Harris'
+p763
+S'1987present'
+p764
+sS'Rob Lowe'
+p765
+S'1979present'
+p766
+sS'Josh Lucas'
+p767
+S'1990present'
+p768
+sS'Jude Law'
+p769
+S'1987present'
+p770
+sS'Aaron Eckhart'
+p771
+S'1992present'
+p772
+sS'John Malkovich'
+p773
+S'1976present'
+p774
+sS'Cameron Diaz'
+p775
+S'1988present'
+p776
+sS'Cuba Gooding, Jr.'
+p777
+S'1986present'
+p778
+sS'Peter Sarsgaard'
+p779
+S'1995present'
+p780
+sS'Angelina Jolie'
+p781
+S'1982; 1991present'
+p782
+sS'Tim Allen'
+p783
+S'1975present'
+p784
+sS'Olga Kurylenko'
+p785
+S'2001present'
+p786
+sS'Matthew Lillard'
+p787
+S'1991present'
+p788
+sS'Freddie Prinze, Jr.'
+p789
+S'1995present'
+p790
+sS'Kevin Hart'
+p791
+S'1999present'
+p792
+sS'Carrie Fisher'
+p793
+S'1973present'
+p794
+sS'Matthew McConaughey'
+p795
+S'1991present'
+p796
+sS'Jack Black'
+p797
+S'1982present'
+p798
+sS'Mickey Rourke'
+p799
+S'None'
+p800
+sS'Sarah Jessica Parker'
+p801
+S'1974present'
+p802
+sS'Rupert Grint'
+p803
+S'2000present'
+p804
+sS'Kevin Costner'
+p805
+S'1977present'
+p806
+sS'Vin Diesel'
+p807
+S'1990present'
+p808
+sS'Ginnifer Goodwin'
+p809
+S'2000present'
+p810
+sS'Taraji P. Henson'
+p811
+S'1997present'
+p812
+sS'Famke Janssen'
+p813
+S'1992present'
+p814
+sS'Edward Norton'
+p815
+S'1996present'
+p816
+sS'Danny DeVito'
+p817
+S'1970present'
+p818
+sS'Tim Robbins'
+p819
+S'1979present'
+p820
+sS'Zoe Saldana'
+p821
+S'1999present'
+p822
+sS'Nicolas Cage'
+p823
+S'1980present'
+p824
+sS'Virginia Madsen'
+p825
+S'1983present'
+p826
+sS'Lily Collins'
+p827
+S'1991present'
+p828
+sS'Chloe Moretz'
+p829
+S'2004present'
+p830
+sS'Nicholas Hoult'
+p831
+S'1996present'
+p832
+sS'Bruce Willis'
+p833
+S'1980present'
+p834
+sS'Paul Dano'
+p835
+S'1998present'
+p836
+sS'Naomi Watts'
+p837
+S'1986present'
+p838
+sS'Christopher Mintz-Plasse'
+p839
+S'2007present'
+p840
+sS'John Leguizamo'
+p841
+S'None'
+p842
+sS'Scarlett Johansson'
+p843
+S'1994present'
+p844
+sS'Lisa Kudrow'
+p845
+S'1989present'
+p846
+sS'Alicia Silverstone'
+p847
+S'1992present'
+p848
+sS'Jeremy Renner'
+p849
+S'1995present'
+p850
+sS'Lukas Haas'
+p851
+S'1983present'
+p852
+sS'Anthony Hopkins'
+p853
+S'1960present'
+p854
+sS'Rosario Dawson'
+p855
+S'1995present'
+p856
+sS'Diane Lane'
+p857
+S'1979present'
+p858
+sS'Abigail Breslin'
+p859
+S'1999present'
+p860
+sS'Amanda Seyfried'
+p861
+S'1996present'
+p862
+sS'Rachel McAdams'
+p863
+S'2001present'
+p864
+sS'Isla Fisher'
+p865
+S'1983present'
+p866
+sS'Frances McDormand'
+p867
+S'1984present'
+p868
+sS'Viola Davis'
+p869
+S'1996present'
+p870
+sS'Michelle Monaghan'
+p871
+S'2000present'
+p872
+sS'Chris Pratt'
+p873
+S'2000present'
+p874
+sS'Christine Taylor'
+p875
+S'1989present'
+p876
+sS'Eva Green'
+p877
+S'2003present'
+p878
+sS'Zac Efron'
+p879
+S'2002present'
+p880
+sS'Alan Rickman'
+p881
+S'1978present'
+p882
+sS'Leonardo DiCaprio'
+p883
+S'1989present'
+p884
+sS'Glenn Close'
+p885
+S'1974present'
+p886
+sS'Halle Berry'
+p887
+S'1989present'
+p888
+sS'Ali Larter'
+p889
+S'1997present'
+p890
+sS'Maggie Gyllenhaal'
+p891
+S'1992present'
+p892
+sS'Sylvester Stallone'
+p893
+S'1970present'
+p894
+sS'Ian Holm'
+p895
+S'1957present'
+p896
+sS'William H. Macy'
+p897
+S'1978present'
+p898
+sS'Penelope Cruz'
+p899
+S'1989present'
+p900
+sS'Daniel Day-Lewis'
+p901
+S'None'
+p902
+sS'Claire Danes'
+p903
+S'1992present'
+p904
+sS'Cate Blanchett'
+p905
+S'1989present'
+p906
+sS'Freddie Highmore'
+p907
+S'1999present'
+p908
+sS'Jesse Eisenberg'
+p909
+S'1999present'
+p910
+sS'Joseph Gordon-Levitt'
+p911
+S'1988present'
+p912
+sS'Kevin Bacon'
+p913
+S'1978present'
+p914
+sS'Morgan Freeman'
+p915
+S'1964present'
+p916
+sS'Daniel Radcliffe'
+p917
+S'1999present'
+p918
+sS'Emma Thompson'
+p919
+S'1982present'
+p920
+sS'Megan Fox'
+p921
+S'2001present'
+p922
+sS'Christoph Waltz'
+p923
+S'1977present'
+p924
+sS'Eric Bana'
+p925
+S'1993present'
+p926
+sS'Rachel Weisz'
+p927
+S'None'
+p928
+sS'Derek Luke'
+p929
+S'1999present'
+p930
+sS'Richard Gere'
+p931
+S'1973present'
+p932
+sS'Ansel Elgort'
+p933
+S'2012present'
+p934
+sS'Tom Hardy'
+p935
+S'2001present'
+p936
+sS'Radha Mitchell'
+p937
+S'1988present'
+p938
+sS'Jared Harris'
+p939
+S'1989present'
+p940
+sS'Jessica Biel'
+p941
+S'1994present'
+p942
+sS'Colin Firth'
+p943
+S'1983present'
+p944
+sS'Paul Walker'
+p945
+S'19862013'
+p946
+sS'Jon Heder'
+p947
+S'2000present'
+p948
+sS'Marisa Tomei'
+p949
+S'1984present'
+p950
+sS'Jamie Foxx'
+p951
+S'1989present'
+p952
+sS'Laura Linney'
+p953
+S'1990present'
+p954
+sS'Emma Roberts'
+p955
+S'2001present'
+p956
+sS'Dennis Quaid'
+p957
+S'1975present'
+p958
+sS'Sam Rockwell'
+p959
+S'1989present'
+p960
+sS'Gerard Butler'
+p961
+S'1997present'
+p962
+sS'Ben Kingsley'
+p963
+S'1966present'
+p964
+sS'John Corbett'
+p965
+S'1987present'
+p966
+sS'Kevin Spacey'
+p967
+S'1986present'
+p968
+sS'Jackson Rathbone'
+p969
+S'2005present'
+p970
+sS'Jaden Smith'
+p971
+S'2002present'
+p972
+sS'Jennifer Lawrence'
+p973
+S'2006present'
+p974
+sS'Ashton Kutcher'
+p975
+S'1998present'
+p976
+sS'Freida Pinto'
+p977
+S'2005present'
+p978
+sS'Clive Owen'
+p979
+S'1988present'
+p980
+sS'Taylor Lautner'
+p981
+S'2001present'
+p982
+sS'Lucy Liu'
+p983
+S'1988present'
+p984
+sS'Reese Witherspoon'
+p985
+S'1991present'
+p986
+sS'Danny Glover'
+p987
+S'1979present'
+p988
+sS'Zooey Deschanel'
+p989
+S'2001present'
+p990
+sS'Rebel Wilson'
+p991
+S'2002present'
+p992
+sS'Rosamund Pike'
+p993
+S'1998present'
+p994
+sS'Alice Eve'
+p995
+S'2004present'
+p996
+sS'Ellen Page'
+p997
+S'1997present'
+p998
+sS'Vince Vaughn'
+p999
+S'1988present'
+p1000
+sS'Laurence Fishburne'
+p1001
+S'1972present'
+p1002
+sS'Rashida Jones'
+p1003
+S'1997present'
+p1004
+sS'Liv Tyler'
+p1005
+S'1994present'
+p1006
+sS'Helen Hunt'
+p1007
+S'1973present'
+p1008
+sS'Kat Dennings'
+p1009
+S'2000present'
+p1010
+sS'Cary Elwes'
+p1011
+S'1979present'
+p1012
+sS'Kristen Stewart'
+p1013
+S'1999present'
+p1014
+sS'Ralph Fiennes'
+p1015
+S'1985present'
+p1016
+sS'Sean Connery'
+p1017
+S'19542012'
+p1018
+sS'Jamie Chung'
+p1019
+S'2004present'
+p1020
+sS'Maria Bello'
+p1021
+S'1992present'
+p1022
+sS'Evangeline Lilly'
+p1023
+S'2002present'
+p1024
+sS'Mia Wasikowska'
+p1025
+S'2004present'
+p1026
+sS'Seth Rogen'
+p1027
+S'1999present'
+p1028
+s.

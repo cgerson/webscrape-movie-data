@@ -1,0 +1,58 @@
+(dp0
+S'Gender'
+p1
+S"Actor's gender based on Actor/Actress designation"
+p2
+sS'Age'
+p3
+S'Age of actor'
+p4
+sS'Actor'
+p5
+S'unique ID'
+p6
+sS'Occ_act_dummy'
+p7
+S'Dummy variable 1 for actor as primary occupation (source: Wikipedia)'
+p8
+sS'Career_start'
+p9
+S'Year acting career began (source: Wikipedia)'
+p10
+sS'Career_fin'
+p11
+S'Year acting career ended (source: Wikipedia)'
+p12
+sS'Avg_Gross'
+p13
+S'Total gross divided by number of movies'
+p14
+sS'Oscar'
+p15
+S'Dummy variable 1 for Oscar win/nomination'
+p16
+sS'Birthday'
+p17
+S"Actor's birthday (datetime object)"
+p18
+sS'Num_months_rec_pd_0_15'
+p19
+S'Count of months in US economic recession between ages 0-15'
+p20
+sS'Num_months_rec_pd_15_20'
+p21
+S'Count of months in US economic recession between ages 15-20'
+p22
+sS'Total_Gross_2015_Dol'
+p23
+S'Amount grossed by films featuring this actor'
+p24
+sS'Num_movies'
+p25
+S'Number of movies used to calculate total gross'
+p26
+sS'Occupation'
+p27
+S"Individual's occupation (source: Wikipedia)"
+p28
+s.
